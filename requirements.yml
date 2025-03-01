@@ -1,0 +1,6 @@
+name: me5424-td-marl
+channels:
+  - defaults
+dependencies:
+  - python
+prefix: /home/anson/anaconda3/envs/me5424-td-marl
